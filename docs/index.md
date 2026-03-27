@@ -8,7 +8,7 @@ staff:
    link: https://library.utoronto.ca/staff/kelly-schultz
  - name: Kara Handren
    link: https://library.utoronto.ca/staff/kara-handren
-staff:
+maintainer:
  - name: Neil Aitken
    link: https://library.utoronto.ca/staff/neil-aitken
 ---

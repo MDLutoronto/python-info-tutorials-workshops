@@ -3,11 +3,6 @@ title: "Python: Information, Tutorials, and Workshops"
 layout: "home"
 description: "Python is a simple programming language that is popular for being easy to learn to read, write, and understand. You can use Python for automating repetitive tasks like cleaning data, creating data visualizations, analyzing data, conducting complex statistical calculations, or even building machine learning algorithms. Its ease of use and versatility means that many tools have been built on top of Python, but being able to explore those requires a good foundation and understanding of the language itself first!"
 permalink: "/"  #! Remove this if not the homepage
-staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
 maintainer:
  - name: Neil Aitken
    link: https://library.utoronto.ca/staff/neil-aitken

@@ -63,6 +63,6 @@ Resources to Learn More
 * [Software Carpentry Lesson on Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * [UofT Coders Python Lessons](https://uoftcoders.github.io/studyGroup/lessons/)
 
-Tools: [Python](/tools/python)
+**Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
 
 **Date Created:** 2023\-02\-03 **Updated:** 2025\-04\-28

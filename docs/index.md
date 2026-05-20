@@ -6,6 +6,7 @@ permalink: "/"  #! Remove this if not the homepage
 maintainer:
  - name: Neil Aitken
    link: https://library.utoronto.ca/staff/neil-aitken
+created_date: 2023-02-03 
 ---
 
 # Python: Information, Tutorials, and Workshops
@@ -15,7 +16,7 @@ Python is a simple programming language that is popular for being easy to learn 
 Getting Started
 ---------------
 
-* Since Python is open\-source, it is completely free and doesn't require licencing! You can download the latest version of python, or a previous version, from [Python's website](https://www.python.org/downloads/).
+* Since Python is open-source, it is completely free and doesn't require licencing! You can download the latest version of python, or a previous version, from [Python's website](https://www.python.org/downloads/).
 * You can also use Python through [JupyterHub](https://datatools.utoronto.ca/), an instance of [Jupyter Notebooks](https://jupyter.org/) hosted online by the University of Toronto. This means no installation is required, you’ll just need to log into [JupyterHub](https://datatools.utoronto.ca/) using your UTORID. Jupyter notebooks are documents that contain both computer code (like Python) alongside explanatory text, images, figures, videos, and links. The code in a Jupyter notebook can be executed, modified, and deleted, all within the notebook. For help with JupyterHub visit UofT's [JupyterHub Support](https://act.utoronto.ca/jupyterhub-support/).
 * Python code can be run in different ways. It can be run either line by line, or in packaged scripts that contain multiple lines of code. You can [read more](https://realpython.com/run-python-scripts/) about running Python code in various ways.
 
@@ -64,5 +65,3 @@ Resources to Learn More
 * [UofT Coders Python Lessons](https://uoftcoders.github.io/studyGroup/lessons/)
 
 **Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
-
-**Date Created:** 2023\-02\-03 **Updated:** 2025\-04\-28

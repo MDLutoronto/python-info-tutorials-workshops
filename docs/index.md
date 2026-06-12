@@ -4,8 +4,8 @@ layout: "home"
 description: "Python is a simple programming language that is popular for being easy to learn to read, write, and understand. You can use Python for automating repetitive tasks like cleaning data, creating data visualizations, analyzing data, conducting complex statistical calculations, or even building machine learning algorithms. Its ease of use and versatility means that many tools have been built on top of Python, but being able to explore those requires a good foundation and understanding of the language itself first!"
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Neil Aitken
-   link: https://library.utoronto.ca/staff/neil-aitken
+    - name: Neil Aitken
+      link: https://library.utoronto.ca/staff/neil-aitken
 created_date: 2023-02-03 
 ---
 
@@ -55,7 +55,6 @@ Please note that a recording of an older version of the Part 2 workshop is also 
 Resources to Learn More
 -----------------------
 
-* [Constellate Tutorials](https://constellate.org/tutorials)
 * [W3 Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 * [Geeks for Geeks Python Tutorial](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 * [Real Python Tutorials](https://realpython.com/)

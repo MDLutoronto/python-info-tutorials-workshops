@@ -25,7 +25,7 @@ Learning resources
 
 ### Workshops
 
-At the Map and Data Library we often beginner level Python workshops. Check out our [workshops page](https://mdl.library.utoronto.ca/support/workshops-and-training) to see all our upcoming live workshops, as well as self\-paced online courses or previously recorded workshops.
+At the Map and Data Library we often beginner level Python workshops. Check out our [workshops page](https://library.utoronto.ca/use/service/mdl-workshops) to see all our upcoming live workshops, as well as self-paced online courses or previously recorded workshops.
 
 Embedded below are recordings of our beginner Python workshops:
 
